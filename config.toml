@@ -1,10 +1,2 @@
 [env]
 # LIBTORCH_USE_PYTORCH=1
-# LIBTORCH="/home/tm/Documents/Example/mtr_tch/libtorch-shared-with-deps-2.0.0+cu118/libtorch/lib"
-# LD_LIBRARY_PATH="${LIBTORCH}/lib:$LD_LIBRARY_PATH"
-
-# export LIBTORCH=/home/tm/Documents/Example/mtr_tch/libtorch-shared-with-deps-2.0.0+cu118/libtorch
-# export LD_LIBRARY_PATH=${LIBTORCH}/lib:$LD_LIBRARY_PATH
-
-# $Env:LIBTORCH = "X:\path\to\libtorch"
-# $Env:Path += ";X:\path\to\libtorch\lib"
