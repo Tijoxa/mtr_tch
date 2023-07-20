@@ -1,0 +1,14 @@
+[package]
+name = "mtr_tch"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[lib]
+name = "mtr_tch"
+crate-type = ["cdylib"]
+
+[dependencies]
+pyo3 = "0.18"
+pyo3-tch = "0.13.0"
+torch-sys = "0.13.0"
