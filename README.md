@@ -1,5 +1,5 @@
 # mtr_tch
-A PyTorch module written in Rust and deployed with PyO3 and Maturin with full intellisense.
+A PyTorch module written in Rust and deployed with PyO3 and Maturin with full IntelliSense.
  
 ## Build
 
